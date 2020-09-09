@@ -16,3 +16,8 @@ Also, other resources used to make this notebook will be added in resources sect
 
 (Challenge and Dataset)
 https://www.kaggle.com/roshansharma/market-basket-optimization 
+
+
+(Source for the idea, and some part of codes)
+Follow along, its a great learning.
+https://www.kaggle.com/evrenermis/association-rule-based-learning-explained
